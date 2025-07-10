@@ -1,5 +1,5 @@
 import java.util.*;
-class Isprime
+class Remainder
 {
  public static void main(String args[])
 {
